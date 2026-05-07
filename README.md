@@ -12,6 +12,14 @@ This project includes
 
 *Next Step: Get datasets a new river based on info below and current code and plug it into the website!
 
+To Launch the Website:
+1. Open terminal to where the water_dashboard.py lives
+   cd "/Users/afrahboateng/Documents/DATASCI 207 Applied Machine Learning/Water Project/Coninuation"
+2. Activate your environment: conda activate water_dashboard
+3. Run streamlit: streamlit run water_dashboard.py
+   You should see a link like Local URL: http://localhost:8501 and it should automatically open in your browser
+
+
 ---
 
 # 📍 River + Airport Dataset Pairs
