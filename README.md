@@ -4,6 +4,12 @@ This project builds a repeatable machine learning pipeline for river discharge f
 
 The goal is to compare how well models generalize across major river systems.
 
+This project includes 
+
+1. a code that builds and tunes a deep learning model
+2. deploys the model on data given user inputs
+3. returns a dashboard with forecasted streamflow
+
 ---
 
 # 📍 River + Airport Dataset Pairs
