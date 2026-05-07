@@ -10,6 +10,8 @@ This project includes
 2. deploys the model on data given user inputs
 3. returns a dashboard with forecasted streamflow
 
+*Next Step: Get datasets a new river based on info below and current code and plug it into the website!
+
 ---
 
 # 📍 River + Airport Dataset Pairs
